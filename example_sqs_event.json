@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "messageId": "11111111-1111-1111-1111-111111111111",
+      "body": "{\"userId\": \"507f1f77bcf86cd799439011\", \"triggerType\": \"WORKOUT_SESSION\", \"entityId\": \"507f1f77bcf86cd799439012\", \"timestamp\": \"2026-08-19T14:30:00.000Z\"}",
+      "messageAttributes": {
+        "triggerType": {
+          "stringValue": "WORKOUT_SESSION",
+          "dataType": "String"
+        }
+      }
+    }
+  ]
+}
